@@ -5,6 +5,9 @@ Named Created By GPT4 Inspired by Data from Star Trek.
 
 Code authored by Robotics + Humans
 
+Grab the model 
+
+from hugging face here; https://huggingface.co/eachadea/ggml-vicuna-7b-4bit/blob/main/ggml-vicuna-7b-4bit-rev1.bin
 ## What is this? 
 This script intercommunicates between the Llama model and GPT-Neo in a loop. It processes a topic from a given list, generates a response using the Llama model, and then uses that response as input for GPT-Neo. GPT-Neo generates another response, which is then used as input for the Llama model in the next iteration. This intercommunication process continues for a specified number of iterations or until stopped by the user.
 
