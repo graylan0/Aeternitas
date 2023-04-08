@@ -1,5 +1,5 @@
 Model: Default (GPT-3.5)
-
+```
 DAO Democracy
 nofx the decline
 "The Decline" is a song by the American punk rock band NOFX. It was released as a single in 1999 and is notable for being an 18-minute long, multi-part punk rock epic that comments on various social and political issues.
@@ -3018,3 +3018,5 @@ output_text.tag_configure('regular', foreground='#00ff00')
 
 # ... rest of the code ...
 In this implementation, we first scale the confidence score to range from 0 to 255 using the formula confidence = int(255 * color). Then, we assign a color to each pixel based on the confidence, with white being the least confident and green being the most confident. Finally, we convert the color code to hexadecimal format and use it to highlight the generated text in the output window.
+
+```
