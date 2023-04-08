@@ -24,4 +24,5 @@ This script intercommunicates between the Llama model and GPT-Neo in a loop. It 
 ![image](https://user-images.githubusercontent.com/34530588/230702352-70bfcbaa-3515-4acf-9e93-ffda159040c9.png)
 
 
-### Configure the settings.json and triedque.json to your liking. How? Who knows.
+### Configure the settings.json and trideque.json to your liking. How? Who knows.
+ Maybe try key word topics, maybe try image base64? Maybe try data injection from stable diffusion for three models? Maybe increase the matrix trideque size 13x13? maybe 25x25? All up to you . Enjoy.
