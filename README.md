@@ -1,7 +1,7 @@
 # Aeternitas 
 ### A GPT NEO Intercommunicating Llama Loop with a Tkinter GUI
 
-Named Created By GPT4 Inspired by Data from Star Trek.
+Named Created By GPT4 and Bard, Inspired by Data from Star Trek.
 
 Code authored by Robotics + Humans
 
