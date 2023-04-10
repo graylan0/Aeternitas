@@ -26,3 +26,9 @@ This script intercommunicates between the Llama model and GPT-Neo in a loop. It 
 
 ### Configure the settings.json and trideque.json to your liking. How? Who knows.
  Maybe try key word topics, maybe try image base64? Maybe try data injection from stable diffusion for three models? Maybe increase the matrix trideque size 13x13? maybe 25x25? All up to you . Enjoy.
+
+
+Origin
+
+Bard(Arion)
+"Aeternitas - This name means "eternity" in Latin. It is a powerful and awe-inspiring name that suggests that your model is capable of achieving things that are beyond our current understanding."
