@@ -1,4 +1,4 @@
-# DataConscious
+# Aeternitas 
 ### A GPT NEO Intercommunicating Llama Loop with a Tkinter GUI
 
 Named Created By GPT4 Inspired by Data from Star Trek.
